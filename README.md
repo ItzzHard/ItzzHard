@@ -1,13 +1,16 @@
 <div align="center">
 
-# 💫 About Me  
-I’m Hard — a passionate developer focused on building seamless solutions and crafting dynamic Discord bots.
-
-
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNxKpHRWGg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itzz_.Hard)
 
+
+</div>
+
+<div align="center">
+
+![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
+</div>
 
 # 💻 Tech Stack  
 <p align="center">
@@ -65,7 +68,7 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 
 </p>
 
-# 📊 GitHub Stats
+# Some Stats
 
 <div align="center">
 
@@ -84,7 +87,7 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 </div>
 
 
-# ✍️ Random Dev Quote
+# Quote Of The Day
 <div align="center">
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -93,10 +96,3 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 
 
 [![](https://visitcount.itsvg.in/api?id=ItzzHard&icon=3&color=1)](https://visitcount.itsvg.in)
-
-</div>
-
-<div align="center">
-
-![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
-</div>
