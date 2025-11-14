@@ -2,13 +2,12 @@
 
 <div align="center">
 
-## 🌐 Socials  
+## Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNxKpHRWGg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itzz_.Hard)
 
 </div>
 
----
 
 <div align="center">
 
@@ -16,7 +15,6 @@
 
 </div>
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -75,7 +73,6 @@
 
 </p>
 
----
 
 ## 📊 GitHub Stats  
 
@@ -97,7 +94,6 @@
 
 </div>
 
----
 
 ## ✍️ Quote Of The Day  
 
