@@ -12,8 +12,9 @@
 ![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
 </div>
 
-## Tech Stack  
+
 <p align="center">
+## Tech Stack  
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,9 +69,9 @@
 
 </p>
 
-## Stats
 
 <div align="center">
+## Stats
 
 <!-- Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="65%"/>
@@ -87,9 +88,9 @@
 </div>
 
 
-## Quote Of The Day
+
 <div align="center">
-  
+## Quote Of The Day  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
