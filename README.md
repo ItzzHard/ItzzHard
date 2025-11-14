@@ -70,7 +70,7 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 <div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="65%"/>
 
 <!-- Main Stats Row -->
 <div align="center">
@@ -96,4 +96,7 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 
 </div>
 
+<div align="center">
+
 ![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
+</div>
