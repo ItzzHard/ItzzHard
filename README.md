@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌐 Socials  
+## Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNxKpHRWGg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itzz_.Hard)
 
@@ -12,7 +12,7 @@
 ![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
 </div>
 
-# 💻 Tech Stack  
+# Tech Stack  
 <p align="center">
   
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
