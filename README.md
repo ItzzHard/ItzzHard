@@ -79,18 +79,12 @@
 <div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="90%"/>
-
-<br/><br/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="65%"/>
 <!-- Main Stats Row -->
 <img src="https://github-readme-stats.vercel.app/api?username=ItzzHard&theme=tokyonight&hide_border=false&show_icons=true" height="170"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=ItzzHard&theme=tokyonight&hide_border=false" height="170"/>
-
-<br/><br/>
-
 <!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzHard&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzHard&layout=compact&theme=tokyonight&hide_border=false" height="160"/>-->
 
 </div>
 
