@@ -95,3 +95,5 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 [![](https://visitcount.itsvg.in/api?id=ItzzHard&icon=3&color=1)](https://visitcount.itsvg.in)
 
 </div>
+
+![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
