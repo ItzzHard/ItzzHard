@@ -95,11 +95,11 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
----
-
 <div align="center">
 
 ![ItzzHard](https://spotify-recently-played-readme.vercel.app/api?user=314hbc6uxmwniu5xmqvyeugknqti)
 [![](https://visitcount.itsvg.in/api?id=ItzzHard&icon=3&color=1)](https://visitcount.itsvg.in)
 
 </div>
+
+---
