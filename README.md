@@ -95,6 +95,9 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
+
+<h2 align="center">My Spotify</h2>
+
 <div align="center">
 
 ![ItzzHard](https://spotify-recently-played-readme.vercel.app/api?user=314hbc6uxmwniu5xmqvyeugknqti)
