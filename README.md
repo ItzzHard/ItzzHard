@@ -3,13 +3,11 @@
 # 💫 About Me  
 I’m Hard — a passionate developer focused on building seamless solutions and crafting dynamic Discord bots.
 
----
 
 ## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNxKpHRWGg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itzz_.Hard)
 
----
 
 # 💻 Tech Stack  
 <p align="center">
@@ -67,19 +65,32 @@ I’m Hard — a passionate developer focused on building seamless solutions and
 
 </p>
 
----
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=ItzzHard&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ItzzHard&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzHard&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
----
+<!-- Profile Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight" width="100%"/>
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Main Stats Row -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzzHard&theme=tokyonight&hide_border=false&show_icons=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ItzzHard&theme=tokyonight&hide_border=false" height="170"/>
+</div>
 
----
+<!-- Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzHard&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
+
+</div>
+
+
+# ✍️ Random Dev Quote
+<div align="center">
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=ItzzHard&icon=3&color=1)](https://visitcount.itsvg.in)
 
