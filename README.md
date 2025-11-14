@@ -1,23 +1,27 @@
+---
+
 <div align="center">
 
-## Socials  
+## 🌐 Socials  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uNxKpHRWGg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Itzz_.Hard)
 
-
 </div>
+
+---
 
 <div align="center">
 
 ![snake gif](https://github.com/ItzzHard/ItzzHard/blob/output/github-snake-dark.svg)
+
 </div>
 
-<div align="center">
-## Tech Stack  
-</div>
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,30 +75,40 @@
 
 </p>
 
-## Stats
-<div align="center">
+---
 
+## 📊 GitHub Stats  
+
+<div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="65%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzzHard&theme=tokyonight&hide_border=false" width="90%"/>
+
+<br/><br/>
 
 <!-- Main Stats Row -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzzHard&theme=tokyonight&hide_border=false&show_icons=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ItzzHard&theme=tokyonight&hide_border=false" height="170"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ItzzHard&theme=tokyonight&hide_border=false&show_icons=true" height="170"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ItzzHard&theme=tokyonight&hide_border=false" height="170"/>
 
-<!-- Used Languages -->
+<br/><br/>
+
+<!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzzHard&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
 
 </div>
 
+---
 
-## Quote Of The Day 
-<div align="center"> 
+## ✍️ Quote Of The Day  
+
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </div>
 
+---
+
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=ItzzHard&icon=3&color=1)](https://visitcount.itsvg.in)
+
+</div>
