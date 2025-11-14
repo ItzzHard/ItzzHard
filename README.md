@@ -16,7 +16,7 @@
 </div>
 
 
-## 🛠️ Tech Stack  
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
 
@@ -74,7 +74,7 @@
 </p>
 
 
-## 📊 GitHub Stats  
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 </div>
 
 
-## ✍️ Quote Of The Day  
+<h2 align="center">Quote Of The Day</h2>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
