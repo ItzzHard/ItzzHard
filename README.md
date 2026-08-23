@@ -91,7 +91,7 @@
 
 <div align="center">
 
-![ItzzHard](https://spotify-recently-played-readme.vercel.app/api?user=314hbc6uxmwniu5xmqvyeugknqti)
+![Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=314hbc6uxmwniu5xmqvyeugknqti)
 
 </div>
 
