@@ -12,12 +12,9 @@
 
 I’m **ItzzHard**, also known as **Kaizaki** — a developer and editor who enjoys building bots, websites, tools, and random projects that somehow turn into much bigger projects.
 
-Currently working on **Trexz**, experimenting with **AI**, building Discord systems, and occasionally breaking servers at 3 AM.
+Currently working on **Trexz**, experimenting with **AI**, building Discord systems, and occasionally breaking servers lol.
 
 <br>
-
-**Code • Create • Experiment • Repeat.**
-
 </div>
 
 <br>
