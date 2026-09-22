@@ -10,18 +10,14 @@
 
 ### ✦ About Me
 
-I’m **ItzzHard**, also known as **Kaizaki** — a developer and editor who enjoys building bots, websites, tools, and random projects that somehow turn into much bigger projects.
+I’m **ItzzHard**, also known as **Kaizaki**. a developer and editor who enjoys building bots, websites, tools, and random projects that somehow turn into much bigger projects.
 
 Currently working on **Trexz**, experimenting with **AI**, building Discord systems, and occasionally breaking servers lol.
 
 <br>
+
 </div>
-
 <br>
-
-<img src="YOUR_SMALL_GIF_URL" height="40" />
-
-<br><br>
 
 [![](https://img.shields.io/badge/Portfolio-A7A459?style=flat\&logo=googlechrome\&logoColor=white)](https://itzzhard.in)
 [![](https://img.shields.io/badge/GitHub-ItzzHard-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ItzzHard)
