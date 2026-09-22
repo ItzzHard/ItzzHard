@@ -16,7 +16,7 @@ Currently working on **Trexz**, experimenting with **AI**, building Discord syst
 
 [![](https://img.shields.io/badge/Portfolio-A7A459?style=flat\&logo=googlechrome\&logoColor=white)](https://itzzhard.in)
 [![](https://img.shields.io/badge/GitHub-ItzzHard-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ItzzHard)
-[![](https://img.shields.io/badge/Trexz-5865F2?style=flat\&logo=discord\&logoColor=white)](https://itzzhard.in)
+[![](https://img.shields.io/badge/Trexz-5865F2?style=flat\&logo=discord\&logoColor=white)](https://discord.com/invite/uNxKpHRWGg)
 
 <br>
 
