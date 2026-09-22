@@ -6,25 +6,6 @@
 
 <br><br>
 
-<pre>
-    💻 Developer • Editor • Creator
-    🤖 Building Trexz • Diya AI • Discord Projects
-    ⚙️ Python • JavaScript • Next.js • MongoDB
-    🌐 Web Development • Bots • Backend • DevOps
-    🎮 Minecraft • Gaming • Anime • Music • Editing
-    🚀 Turning random ideas into actual projects
-</pre>
-
-<br>
-
-<img src="YOUR_SMALL_GIF_URL" height="40" />
-
-<br><br>
-
-[![](https://img.shields.io/badge/Portfolio-A7A459?style=flat\&logo=googlechrome\&logoColor=white)](https://itzzhard.in)
-[![](https://img.shields.io/badge/GitHub-ItzzHard-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ItzzHard)
-[![](https://img.shields.io/badge/Trexz-5865F2?style=flat\&logo=discord\&logoColor=white)](https://itzzhard.in)
-
 <br>
 
 ### ✦ About Me
@@ -38,3 +19,13 @@ Currently working on **Trexz**, experimenting with **AI**, building Discord syst
 **Code • Create • Experiment • Repeat.**
 
 </div>
+
+<br>
+
+<img src="YOUR_SMALL_GIF_URL" height="40" />
+
+<br><br>
+
+[![](https://img.shields.io/badge/Portfolio-A7A459?style=flat\&logo=googlechrome\&logoColor=white)](https://itzzhard.in)
+[![](https://img.shields.io/badge/GitHub-ItzzHard-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/ItzzHard)
+[![](https://img.shields.io/badge/Trexz-5865F2?style=flat\&logo=discord\&logoColor=white)](https://itzzhard.in)
