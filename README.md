@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://imgs.search.brave.com/f0dt03abpCuwPCFhBqyrlXd_RN34CccipasI_sw-GVc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXVu/YWlsZGVwLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NS9hbmgtbmFnaS1j/dXRlLXhpbmgtaGQu/anBn" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/90/ac/39/90ac39d97c5a9439b5261d64b518c3b7.jpg" width="25%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there+%F0%9F%91%8B;I'm+ItzzHard+%E2%80%94+Developer+%E2%80%A2+Editor+%E2%80%A2+Creator" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there+%F0%9F%91%8B;I'm+ItzzHard+%E2%80%94+Developer+%E2%80%A2+Editor+%E2%80%A2+Creator" width="70%" />
 
 <br><br> <br>
 
