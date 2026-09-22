@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[YOUR_IMAGE_OR_GIF_URL](https://giphy.com/gifs/meme-suprised-nagi-cEGEFw3ux9xXpCagf1)" width="25%" align="right" />
+<img src="[YOUR_IMAGE_OR_GIF_URL]([https://giphy.com/gifs/meme-suprised-nagi-cEGEFw3ux9xXpCagf1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9iN3BnZ201ZGJiZDltODJ4cmF4aWxkNDhnaG5naWMxaWFrZ2xvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEGEFw3ux9xXpCagf1/giphy.gif))" width="25%" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there+%F0%9F%91%8B;I'm+ItzzHard+%E2%80%94+Developer+%E2%80%A2+Editor+%E2%80%A2+Creator" width="70%" />
 
